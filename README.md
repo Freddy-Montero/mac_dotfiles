@@ -1,2 +1,3 @@
-# mac_dotfiles
+# Personal dotfiles 
 Mac dotfiles for bash and the like
+Feel free to use them, modify them, distribute them....
